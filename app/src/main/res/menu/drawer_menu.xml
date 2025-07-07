@@ -1,0 +1,11 @@
+<!-- res/menu/drawer_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tablesFragment"
+        android:icon="@drawable/ic_table"
+        android:title="Stoliki" />
+    <item
+        android:id="@+id/addOrderFragment"
+        android:icon="@drawable/ic_add"
+        android:title="Nowe zamówienie" />
+</menu>
